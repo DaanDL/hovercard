@@ -1,0 +1,19 @@
+{
+  "name": "hovercard",
+  "version": "1.0.0",
+  "description": "A free light weight jQuery plugin that enables you to display related information with the hovered label, link, or any html element of your choice.",
+  "main": "jquery.hovercard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaanDL/hovercard.git"
+  },
+  "author": "Prahsant Chaudhary (http://designwithpc.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaanDL/hovercard/issues"
+  },
+  "homepage": "https://github.com/DaanDL/hovercard#readme"
+}
